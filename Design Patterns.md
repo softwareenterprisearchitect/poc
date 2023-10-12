@@ -44,3 +44,18 @@ Just by following SOLID Principles helps greatly in agile or adaptive software d
 The solution facilitates the development of highly cohesive modules with minimal coupling. Thus, increasing extensibility & reusability.
 There are some patterns like Facade, Proxy, etc which encapsulates the complexity in itself to provide easy & intuitive interface to the client. Thus, making the overall system easier to understand & reduce learning curve.
 Design Patterns make communication between designers & developers more crystal & precise. A developer can immediately picture the high-level design in their heads when they refer to the name of the pattern used to solve a particular issue when discussing software design.
+
+
+
+10 common architectural patterns with their usage, pros and cons.
+
+Layered pattern
+Client-server pattern
+Master-slave pattern
+Pipe-filter pattern
+Broker pattern
+Peer-to-peer pattern
+Event-bus pattern
+Model-view-controller pattern
+Blackboard pattern
+Interpreter pattern
